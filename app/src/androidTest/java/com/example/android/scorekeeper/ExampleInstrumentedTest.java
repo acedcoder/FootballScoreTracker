@@ -1,4 +1,4 @@
-package com.example.android.footballscoretracker;
+package com.example.android.scorekeeper;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.android.footballscoretracker", appContext.getPackageName());
+        assertEquals("com.example.android.scorekeeper", appContext.getPackageName());
     }
 }

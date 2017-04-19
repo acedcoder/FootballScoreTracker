@@ -1,4 +1,4 @@
-package com.example.android.footballscoretracker;
+package com.example.android.scorekeeper;
 
 import org.junit.Test;
 
